@@ -8,7 +8,7 @@ async def all_users():
     pass
 
 
-@router.get('/task_id')
+@router.get('/user_id')
 async def user_by_id():
     pass
 
